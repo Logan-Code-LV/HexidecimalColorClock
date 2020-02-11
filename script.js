@@ -5,7 +5,6 @@ $(document).ready(function() {
     var minutes = currentTime.getMinutes()
     var seconds = currentTime.getSeconds()
     var miridiem = "AM"
-    // document.body.innerHTML = `${hours}:${minutes}:${seconds}`
 
     var clockDiv = document.getElementById("clock")
 
