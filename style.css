@@ -1,8 +1,19 @@
 #clock {
   text-align: center;
-  margin-top: 200px;
   font-size: 100px;
   color: white;
   border: 1px solid white;
   border-radius: 100px;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+h1,
+h3 {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 80px;
+  color: white;
+  text-align: center;
 }
